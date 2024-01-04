@@ -28,4 +28,5 @@ ChatHub is a Java-based group chat server application that enables real-time com
    - Used for communication between clients and the server.
 
 ## Class Diagram
-![projectClassDiagram](https://github.com/vDalken/ChatHub/assets/148246203/ad4917e6-fdb4-42fe-a402-a8c0a5ac62eb)
+![projectClassDiagram-removebg-preview-2](https://github.com/vDalken/ChatHub/assets/148246203/5d18d62e-9d01-402c-a29c-15bb9e57cf9a)
+
